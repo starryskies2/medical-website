@@ -1,0 +1,26 @@
+Projects:
+* Anything with colon at the end of the line is a project title
+* You can nest projects inside each other
+* You can fold projects and sub projects
+New Task:
+    * Press Cmd+Enter (Ctrl+Enter on Windows and Linux) to add a new task
+    * You can also use the Command pallette to create a new task by typing To Do:New Task
+    * If you are on a new line, it will create a new task on the current line
+    * If you are on a line with some text pressing new task shortcut will convert it to a task
+    * New tasks are nested as much as the previous task
+alt + D to complete task
+    Projects:
+        ☐ finish working on my portfolio website untill i start my degree,
+        ☐ work on my mom personal website,will need alot of API in the backend,
+    
+   tasks:
+  ☐ work on your personal website,i need to add via react 
+  1)profile pic (need to add as an object)
+  2)proper title and website design (needs to be high techy like,ask carms)
+  3)make sure import/export from all the files are linked properly 
+  4)will be done via creating objects and reusing as much as possible
+  however it isnt a must since im not experienced yet
+  5)add links to github,linkedin(need new one) links to previous projects/explains which lang they are using?
+  6)i want simple and not complicated website
+  
+  
